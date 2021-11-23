@@ -178,7 +178,7 @@
                 </goals>
                 <configuration>
                   <target>
-                    <copy file="../LICENSE.txt" tofile="${project.build.directory}/generated-resources/META-INF/LICENSE" overwrite="false" failonerror="true" />
+                    <copy file="../LICENSE.txt" tofile="${project.build.directory}/generated-resources/META-INF/LICENSE" overwrite="false" failonerror="true"/>
                   </target>
                 </configuration>
               </execution>
@@ -233,7 +233,7 @@
                 </goals>
                 <configuration>
                   <target>
-                    <copy file="../LICENSE.txt" tofile="${project.build.directory}/test-classes/META-INF/LICENSE" overwrite="false" failonerror="true" />
+                    <copy file="../LICENSE.txt" tofile="${project.build.directory}/test-classes/META-INF/LICENSE" overwrite="false" failonerror="true"/>
                   </target>
                 </configuration>
               </execution>
@@ -1147,7 +1147,7 @@
     <version.junit>3.8.1</version.junit>
     <version.net.sf.kxml.kxml2>2.3.0</version.net.sf.kxml.kxml2>
     <version.org.apache.felix>4.4.1</version.org.apache.felix>
-    <version.org.codehaus.jettison>1.2</version.org.codehaus.jettison>
+    <version.org.codehaus.jettison>1.4.1</version.org.codehaus.jettison>
     <version.org.codehaus.woodstox.asl>3.2.7</version.org.codehaus.woodstox.asl>
     <version.org.hibernate.core>4.2.5.Final</version.org.hibernate.core>
     <version.org.hibernate.envers>${version.org.hibernate.core}</version.org.hibernate.envers>
@@ -1169,7 +1169,7 @@
     <surefire.illegal.access>permit</surefire.illegal.access>
 
     <argLine>${surefire.argline}</argLine>
-    <javadoc.xdoclint />
-    <surefire.argline />
+    <javadoc.xdoclint/>
+    <surefire.argline/>
   </properties>
 </project>
