@@ -133,7 +133,7 @@
   </dependencies>
 
   <properties>
-    <version.junit>4.11</version.junit>
+    <version.junit>4.13.2</version.junit>
     <version.java.source>${version.java.6}</version.java.source>
     <version.java.target>${version.java.6}</version.java.target>
   </properties>
