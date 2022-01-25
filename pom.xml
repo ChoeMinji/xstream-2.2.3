@@ -94,7 +94,7 @@
         <jdk>1.6</jdk>
       </activation>
       <properties>
-        <version.org.openjdk.jmh>1.16</version.org.openjdk.jmh>
+        <version.org.openjdk.jmh>1.34</version.org.openjdk.jmh>
       </properties>
     </profile>
     <profile>
@@ -1154,7 +1154,7 @@
     <version.org.jdom>1.1.3</version.org.jdom>
     <version.org.jdom2>2.0.5</version.org.jdom2>
     <version.org.json>20080701</version.org.json>
-    <version.org.openjdk.jmh>1.21</version.org.openjdk.jmh>
+    <version.org.openjdk.jmh>1.34</version.org.openjdk.jmh>
     <version.org.ops4j.pax.exam>3.5.0</version.org.ops4j.pax.exam><!--  java 6 -->
     <version.org.slf4j>1.6.1</version.org.slf4j>
     <version.stax>1.2.0</version.stax>
