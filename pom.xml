@@ -410,12 +410,12 @@
       <dependency>
         <groupId>com.thoughtworks.xstream</groupId>
         <artifactId>xstream</artifactId>
-        <version>1.4.16</version>
+        <version>1.4.19</version>
       </dependency>
       <dependency>
         <groupId>com.thoughtworks.xstream</groupId>
         <artifactId>xstream</artifactId>
-        <version>1.4.16</version>
+        <version>1.4.19</version>
         <classifier>tests</classifier>
         <type>test-jar</type>
         <scope>test</scope>
@@ -423,7 +423,7 @@
       <dependency>
         <groupId>com.thoughtworks.xstream</groupId>
         <artifactId>xstream</artifactId>
-        <version>1.4.16</version>
+        <version>1.4.19</version>
         <classifier>javadoc</classifier>
         <scope>provided</scope>
       </dependency>
@@ -1009,7 +1009,7 @@
             <dependency>
                 <groupId>com.thoughtworks.xstream</groupId>
                 <artifactId>xstream</artifactId>
-                <version>1.4.16</version>
+                <version>1.4.19</version>
             </dependency>
           </dependencies>
         </plugin>
